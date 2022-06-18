@@ -1,2 +1,3 @@
-# judge-my-steam
-How Bad is Your Streaming Music spin-off
+# Judge My Steam
+
+A project that judges your Steam account data.
